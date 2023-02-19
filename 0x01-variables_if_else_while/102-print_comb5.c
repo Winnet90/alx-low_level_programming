@@ -21,8 +21,8 @@ int main(void)
 				putchar((d % 10) + 48);
 				if (c != 98 || d != 99)
 				{
-					putchar(',')
-					putchar(' ')
+					putchar(',');
+					putchar(' ');
 				}
 			}
 		}
