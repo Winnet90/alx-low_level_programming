@@ -1,7 +1,8 @@
-#include "main.h"
+#include <main.h>
 
 /**
  * main - prints _putchar
+ * written by Winnet
  *
  * Return: 0 Always
  */
