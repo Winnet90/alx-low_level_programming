@@ -6,7 +6,7 @@
  *Return: 1 if n is greater than zero, 0 when n is zero  otherwise -1
  */
 
-int print_sign(int n)i
+int print_sign(int n)
 {
 	if (n > 0)
 	{
