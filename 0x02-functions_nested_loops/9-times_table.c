@@ -8,4 +8,7 @@
 
 void times_table(void)
 {
+	time_table();
+	return (0);
 
+}
