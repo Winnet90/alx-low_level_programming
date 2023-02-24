@@ -1,12 +1,18 @@
 #include <stdio.h>
 
 /**
- * prime_factors - function declaration
+ * prime_factors - function that prints the largest prime factor of the number
  * Description: finds largest prime factor
- * @test_num: number to test
+ * main - entry point
  *
  * Return: void
  */
+
+int main(void)
+{
+	prime_factors(612852475143);
+	return (0);
+}
 
 void prime_factors(long test_num)
 {
