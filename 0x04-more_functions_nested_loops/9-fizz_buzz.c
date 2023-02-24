@@ -3,12 +3,18 @@
 #include "main.h"
 
 /**
- * fizz_buzz - function declaration
- * Description: prints fizz, buzz or fizbuzz for multiples
- * of 3 and 5
- * @range: the end number
- * Return: void
+ *main - entry point
+ *fizz_buzz - function declaration
+ *Description - prints fizz, buzz or fizbuzz for multiples
+ *
+ *Return: void
  */
+
+int main(void)
+{
+	fizz_buzz(100);
+	return (0);
+}
 
 void fizz_buzz(int range)
 {
