@@ -13,6 +13,7 @@ void print_square(int size);
 void print_triangle(int size);
 int _putchar(int);
 void fizz_buzz(int range);
+void prime_factors(long test_num);
 
 
 #endif
