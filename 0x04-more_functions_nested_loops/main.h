@@ -14,7 +14,5 @@ void print_triangle(int size);
 int _putchar(int);
 void fizz_buzz(int range);
 void prime_factors(long test_num);
-void print_number(int n)
-
 
 #endif
